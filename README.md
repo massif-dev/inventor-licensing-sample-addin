@@ -51,6 +51,6 @@ Console.WriteLine(asset.Message);
 
 ## License
 
-See `EULA.html` supplied with the library. 
+See `EULA.html` in the repo.
 
 Copyright 2019 - **Massif Limited.**
