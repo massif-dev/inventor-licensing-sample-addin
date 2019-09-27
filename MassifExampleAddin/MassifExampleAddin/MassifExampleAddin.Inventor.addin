@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 24.0-->
+  <ClassId>{573e1c9f-6fa9-4799-9afc-c4f0ad2b9d44}</ClassId>
+  <ClientId>{573e1c9f-6fa9-4799-9afc-c4f0ad2b9d44}</ClientId>
+  <DisplayName>MassifExampleAddin</DisplayName>
+  <Description>MassifExampleAddin</Description>
+  <Assembly>MassifExampleAddin\MassifExampleAddin.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>23..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>

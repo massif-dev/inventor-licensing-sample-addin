@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="MassifExampleAddin" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{573e1c9f-6fa9-4799-9afc-c4f0ad2b9d44}" progid="MassifExampleAddin.StandardAddInServer" threadingModel="Both" name="MassifExampleAddin.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="MassifExampleAddin.dll" hashalg="SHA1"></file>
+
+</assembly>
